@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="58aa1bd2de469b38441708d7745cd7d6a103ebf4">
+        <dex dex="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df966af9936380782d82cdc2cbe23ef8f1b5feb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="dfd167b8ceb3829655a6d126ee6a0303b22c5753">
+        <dex dex="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_cf9c2cb960b25c144255be53585d9f17e11222cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9164de74b166338d7d0ad2d8dd4bf427db6fe15c">
+        <dex dex="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1ef13e2a9d329569e9353de28d113fbd1d32f8b/classes.dex" />
+    </item>
+
+</items>

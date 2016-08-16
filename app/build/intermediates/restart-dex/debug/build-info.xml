@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="hdpi"
+    format="8"
+    timestamp="766054304387397"
+    token="1243658432017528513"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="221" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="766054304387397"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

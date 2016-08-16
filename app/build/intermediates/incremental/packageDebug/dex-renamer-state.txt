@@ -1,0 +1,7 @@
+#Tue Aug 16 17:59:00 CST 2016
+base.0=/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1ef13e2a9d329569e9353de28d113fbd1d32f8b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df966af9936380782d82cdc2cbe23ef8f1b5feb/classes.dex
+base.1=/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2df966af9936380782d82cdc2cbe23ef8f1b5feb
+file.0=/Users/anthony/Desktop/AutismTutor/AutismTutor2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1ef13e2a9d329569e9353de28d113fbd1d32f8b/classes.dex
